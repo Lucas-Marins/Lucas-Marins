@@ -1,4 +1,4 @@
-My name is Lucas Miranda and I am a web/mobile developer working with React, React Native and Nodejs based back-end.
+My name is Lucas Marins and I am a web/mobile developer working with React, React Native and Nodejs based back-end.
 
 
 <!--
