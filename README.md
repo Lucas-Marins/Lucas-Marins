@@ -7,7 +7,7 @@ const me = {
   age: 21,
   company: null, // Hire me :)
   langs: ['TypeScript', 'JavaScript', 'Python'],
-  likesToDo: ['Coding', 'Playing games', 'Animes'],
+  likesToDo: ['Coding', 'Playing games', 'Draw'],
   favorite: {
     food: 'Hamburguer',
     color: 'black',
