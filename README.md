@@ -1,5 +1,5 @@
 # :octocat: Lucas Marins | @Lucas-Marins
-My name is Lucas Marins and I am a web/mobile developer working with React, React Native and Nodejs based back-end.
+My name is Lucas Marins and I am a web/mobile developer working with React, React Native and Nodejs based back-end. Enthusiast DevOps & SRE.
 
 ```js
 const me = {
